@@ -2,7 +2,7 @@
 
 I'm a web developper specializing in javascript with reactJS and nodeJS. I'm not affrad of learning new languages and learned basics in hackatons for c# with unity  and php. 
 
-I created with my teammate three majors projects :
+I created with my teammates three majors projects :
   - Shake It Yourself with html css and javascript about cocktails. Later I turned it into a reactjs with API call.
   - Green Peas, a web application for ecologic impact of foods using reactJs.
   - Elan, health insurances organizer to regroup all the informations of many people and/or insurances in one place with mysql/express and reactJS
@@ -16,7 +16,7 @@ Hackatons :
 
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma Logo" width="50" height="50"/>
+<div style="display:flex;align-items:center;justify-content:space-raound;"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma Logo" width="50" height="50"/></div>
 
 ---
 
