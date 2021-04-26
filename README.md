@@ -14,7 +14,7 @@ Hackatons :
 
 ---
 
-## 🧰 Toolbox
+## 🔧 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="xampp Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu Logo" width="50" height="50"/>
 
@@ -22,9 +22,12 @@ Hackatons :
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenogearsX&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenogearsX&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/xenogearsX/xenogearsX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenogearsX&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/xenogearsX/xenogearsX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xenogearsX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <!--
 **xenogearsX/xenogearsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
